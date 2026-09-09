@@ -1,0 +1,97 @@
+name: Update Courses
+
+on:
+  push:
+    paths:
+      - 'courses.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  process-courses:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Process courses and replace semesters
+        run: |
+          python - << 'EOF'
+          import json
+          import re
+          import os
+
+          if not os.path.exists('courses.json'):
+              print("courses.json not found, skipping.")
+              exit(0)
+
+          with open('courses.json', 'r', encoding='utf-8') as f:
+              data = json.load(f)
+
+          chinese_nums = ['零', '一', '二', '三', '四', '五', '六', '七', '八', '九', '十', '十一', '十二']
+
+          def xnxq_to_sem(code):
+              m = re.match(r'(\d{4})-\d{4}-(\d+)', str(code).strip())
+              if m:
+                  start_year = int(m.group(1))
+                  sem_num = int(m.group(2))
+                  index = (start_year - 2024) * 2 + sem_num - 1
+                  if 1 <= index < len(chinese_nums):
+                      return f'第{chinese_nums[index]}学期'
+                  return f'第{index}学期'
+              return str(code)
+
+          def convert_xnxq(val):
+              if not val:
+                  return ''
+              parts = [p.strip() for p in str(val).split(',')]
+              return ', '.join([xnxq_to_sem(p) for p in parts])
+
+          # 支持原始嵌套结构或列表结构
+          rows = []
+          if isinstance(data, dict):
+              if 'datas' in data and 'kzkccx' in data['datas'] and 'rows' in data['datas']['kzkccx']:
+                  rows = data['datas']['kzkccx']['rows']
+              elif 'rows' in data:
+                  rows = data['rows']
+          elif isinstance(data, list):
+              rows = data
+
+          extracted = []
+          for r in rows:
+              sem_str = convert_xnxq(r.get('XNXQ'))
+              extracted.append({
+                  'KCXZDM_DISPLAY': r.get('KCXZDM_DISPLAY', '') or '',
+                  'XNXQ_DISPLAY': sem_str,
+                  'XNXQ': sem_str,
+                  'XF': r.get('XF', '') or '',
+                  'KCM': r.get('KCM', '') or ''
+              })
+
+          with open('courses_replaced.json', 'w', encoding='utf-8') as f:
+              json.dump(extracted, f, ensure_ascii=False, indent=2)
+
+          print(f"Successfully processed {len(extracted)} courses into courses_replaced.json")
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "${{ github.actor }}"
+          git config --local user.email "160479206+lingyicute@users.noreply.github.com"
+          
+          git add courses_replaced.json
+          
+          if git diff --staged --quiet; then
+            echo "No changes in courses_replaced.json to commit."
+          else
+            git commit -m "Auto update courses_replaced.json [skip ci]"
+            git push
+          fi
