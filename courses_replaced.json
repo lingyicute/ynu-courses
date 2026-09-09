@@ -1,0 +1,660 @@
+[
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期, 第三学期",
+    "XNXQ": "第二学期, 第三学期",
+    "XF": "0.0",
+    "KCM": "大学生劳动教育理论与实践"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期, 第三学期, 第四学期",
+    "XNXQ": "第二学期, 第三学期, 第四学期",
+    "XF": "1.0",
+    "KCM": "通用学术英语听说"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期, 第三学期, 第四学期",
+    "XNXQ": "第二学期, 第三学期, 第四学期",
+    "XF": "1.0",
+    "KCM": "通用学术英语读写"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第一学期, 第二学期, 第三学期",
+    "XNXQ": "第一学期, 第二学期, 第三学期",
+    "XF": "1.0",
+    "KCM": "大学英语听说（3）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第一学期, 第二学期",
+    "XNXQ": "第一学期, 第二学期",
+    "XF": "1.0",
+    "KCM": "大学英语听说（2）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期, 第三学期, 第四学期",
+    "XNXQ": "第二学期, 第三学期, 第四学期",
+    "XF": "1.0",
+    "KCM": "高级英语（口译）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第一学期",
+    "XNXQ": "第一学期",
+    "XF": "1.0",
+    "KCM": "大学英语听说（1）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期, 第三学期, 第四学期",
+    "XNXQ": "第二学期, 第三学期, 第四学期",
+    "XF": "1.0",
+    "KCM": "高级英语（笔译）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期, 第三学期, 第四学期",
+    "XNXQ": "第二学期, 第三学期, 第四学期",
+    "XF": "1.0",
+    "KCM": "英语文学赏析"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期, 第三学期, 第四学期",
+    "XNXQ": "第二学期, 第三学期, 第四学期",
+    "XF": "1.0",
+    "KCM": "旅游文化交流英语"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期, 第三学期, 第四学期",
+    "XNXQ": "第二学期, 第三学期, 第四学期",
+    "XF": "1.0",
+    "KCM": "大学英语读写（4）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第一学期",
+    "XNXQ": "第一学期",
+    "XF": "1.0",
+    "KCM": "大学英语读写（1）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第一学期, 第二学期, 第三学期",
+    "XNXQ": "第一学期, 第二学期, 第三学期",
+    "XF": "1.0",
+    "KCM": "大学英语读写（3）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第一学期, 第二学期",
+    "XNXQ": "第一学期, 第二学期",
+    "XF": "1.0",
+    "KCM": "大学英语读写（2）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期, 第三学期, 第四学期, 第五学期, 第六学期, 第七学期",
+    "XNXQ": "第二学期, 第三学期, 第四学期, 第五学期, 第六学期, 第七学期",
+    "XF": "2.0",
+    "KCM": "大学生创新创业教育"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第一学期",
+    "XNXQ": "第一学期",
+    "XF": "3.0",
+    "KCM": "线性代数A"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期",
+    "XNXQ": "第二学期",
+    "XF": "3.0",
+    "KCM": "概率论与数理统计A"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期",
+    "XNXQ": "第二学期",
+    "XF": "5.0",
+    "KCM": "高等数学A（2）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第一学期",
+    "XNXQ": "第一学期",
+    "XF": "5.0",
+    "KCM": "高等数学A（1）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期",
+    "XNXQ": "第二学期",
+    "XF": "1.5",
+    "KCM": "大学物理实验B（1）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期",
+    "XNXQ": "第二学期",
+    "XF": "4.0",
+    "KCM": "大学物理B（1）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第一学期",
+    "XNXQ": "第一学期",
+    "XF": "2.0",
+    "KCM": "人工智能导论"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第一学期",
+    "XNXQ": "第一学期",
+    "XF": "3.0",
+    "KCM": "Python语言程序设计"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期",
+    "XNXQ": "第二学期",
+    "XF": "3.0",
+    "KCM": "面向对象程序设计"
+  },
+  {
+    "KCXZDM_DISPLAY": "选修",
+    "XNXQ_DISPLAY": "第五学期",
+    "XNXQ": "第五学期",
+    "XF": "2.0",
+    "KCM": "新技术专题（1）"
+  },
+  {
+    "KCXZDM_DISPLAY": "选修",
+    "XNXQ_DISPLAY": "第六学期",
+    "XNXQ": "第六学期",
+    "XF": "2.0",
+    "KCM": "新技术专题（2）"
+  },
+  {
+    "KCXZDM_DISPLAY": "选修",
+    "XNXQ_DISPLAY": "第六学期",
+    "XNXQ": "第六学期",
+    "XF": "2.0",
+    "KCM": "联邦学习技术与实践"
+  },
+  {
+    "KCXZDM_DISPLAY": "选修",
+    "XNXQ_DISPLAY": "第六学期",
+    "XNXQ": "第六学期",
+    "XF": "2.0",
+    "KCM": "智慧医疗概论"
+  },
+  {
+    "KCXZDM_DISPLAY": "选修",
+    "XNXQ_DISPLAY": "第五学期",
+    "XNXQ": "第五学期",
+    "XF": "2.0",
+    "KCM": "运筹学"
+  },
+  {
+    "KCXZDM_DISPLAY": "选修",
+    "XNXQ_DISPLAY": "第六学期",
+    "XNXQ": "第六学期",
+    "XF": "2.0",
+    "KCM": "强化学习"
+  },
+  {
+    "KCXZDM_DISPLAY": "选修",
+    "XNXQ_DISPLAY": "第六学期",
+    "XNXQ": "第六学期",
+    "XF": "2.0",
+    "KCM": "知识图谱"
+  },
+  {
+    "KCXZDM_DISPLAY": "选修",
+    "XNXQ_DISPLAY": "第五学期",
+    "XNXQ": "第五学期",
+    "XF": "2.0",
+    "KCM": "数据挖掘"
+  },
+  {
+    "KCXZDM_DISPLAY": "选修",
+    "XNXQ_DISPLAY": "第五学期",
+    "XNXQ": "第五学期",
+    "XF": "2.0",
+    "KCM": "智能商业与过程挖掘"
+  },
+  {
+    "KCXZDM_DISPLAY": "选修",
+    "XNXQ_DISPLAY": "第五学期",
+    "XNXQ": "第五学期",
+    "XF": "2.0",
+    "KCM": "云计算技术与实践"
+  },
+  {
+    "KCXZDM_DISPLAY": "选修",
+    "XNXQ_DISPLAY": "第六学期",
+    "XNXQ": "第六学期",
+    "XF": "2.0",
+    "KCM": "数字图像理解与智能技术"
+  },
+  {
+    "KCXZDM_DISPLAY": "选修",
+    "XNXQ_DISPLAY": "第五学期",
+    "XNXQ": "第五学期",
+    "XF": "2.0",
+    "KCM": "数字图像处理"
+  },
+  {
+    "KCXZDM_DISPLAY": "选修",
+    "XNXQ_DISPLAY": "第五学期",
+    "XNXQ": "第五学期",
+    "XF": "2.0",
+    "KCM": "数据库系统设计及国产数据库系统"
+  },
+  {
+    "KCXZDM_DISPLAY": "选修",
+    "XNXQ_DISPLAY": "第六学期",
+    "XNXQ": "第六学期",
+    "XF": "2.0",
+    "KCM": "生物信息数据处理"
+  },
+  {
+    "KCXZDM_DISPLAY": "选修",
+    "XNXQ_DISPLAY": "第六学期",
+    "XNXQ": "第六学期",
+    "XF": "2.0",
+    "KCM": "软件设计模式"
+  },
+  {
+    "KCXZDM_DISPLAY": "选修",
+    "XNXQ_DISPLAY": "第六学期",
+    "XNXQ": "第六学期",
+    "XF": "2.0",
+    "KCM": "启发式与元启发式算法"
+  },
+  {
+    "KCXZDM_DISPLAY": "选修",
+    "XNXQ_DISPLAY": "第五学期",
+    "XNXQ": "第五学期",
+    "XF": "2.0",
+    "KCM": "大数据分析及应用"
+  },
+  {
+    "KCXZDM_DISPLAY": "选修",
+    "XNXQ_DISPLAY": "第五学期",
+    "XNXQ": "第五学期",
+    "XF": "2.0",
+    "KCM": "传感网与物联网技术"
+  },
+  {
+    "KCXZDM_DISPLAY": "选修",
+    "XNXQ_DISPLAY": "第六学期",
+    "XNXQ": "第六学期",
+    "XF": "2.0",
+    "KCM": "专业前沿与学术写作"
+  },
+  {
+    "KCXZDM_DISPLAY": "选修",
+    "XNXQ_DISPLAY": "第七学期",
+    "XNXQ": "第七学期",
+    "XF": "2.0",
+    "KCM": "高级创新创业"
+  },
+  {
+    "KCXZDM_DISPLAY": "选修",
+    "XNXQ_DISPLAY": "第五学期",
+    "XNXQ": "第五学期",
+    "XF": "2.0",
+    "KCM": "专业英语阅读与交流"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第八学期",
+    "XNXQ": "第八学期",
+    "XF": "10.0",
+    "KCM": "毕业设计"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第七学期",
+    "XNXQ": "第七学期",
+    "XF": "4.0",
+    "KCM": "毕业实习"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第三学期",
+    "XNXQ": "第三学期",
+    "XF": "2.0",
+    "KCM": "编程能力提升"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第七学期",
+    "XNXQ": "第七学期",
+    "XF": "1.0",
+    "KCM": "研究计划"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第六学期",
+    "XNXQ": "第六学期",
+    "XF": "2.0",
+    "KCM": "人工智能创新实践"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第六学期",
+    "XNXQ": "第六学期",
+    "XF": "3.0",
+    "KCM": "软件项目管理实践"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第七学期",
+    "XNXQ": "第七学期",
+    "XF": "4.0",
+    "KCM": "人工智能实训（高级）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第五学期",
+    "XNXQ": "第五学期",
+    "XF": "3.0",
+    "KCM": "人工智能实训（中级）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第四学期",
+    "XNXQ": "第四学期",
+    "XF": "2.0",
+    "KCM": "人工智能实训(初级)"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第三学期",
+    "XNXQ": "第三学期",
+    "XF": "1.0",
+    "KCM": "面向对象程序实践"
+  },
+  {
+    "KCXZDM_DISPLAY": "",
+    "XNXQ_DISPLAY": "第三学期",
+    "XNXQ": "第三学期",
+    "XF": "1.0",
+    "KCM": "研究计划集中实践"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第三学期",
+    "XNXQ": "第三学期",
+    "XF": "3.0",
+    "KCM": "离散数学"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第三学期",
+    "XNXQ": "第三学期",
+    "XF": "4.0",
+    "KCM": "数据结构与算法"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第四学期",
+    "XNXQ": "第四学期",
+    "XF": "3.0",
+    "KCM": "计算机网络"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第四学期",
+    "XNXQ": "第四学期",
+    "XF": "3.0",
+    "KCM": "数据库概论"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第五学期",
+    "XNXQ": "第五学期",
+    "XF": "3.0",
+    "KCM": "自然语言处理"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第四学期",
+    "XNXQ": "第四学期",
+    "XF": "3.0",
+    "KCM": "深度学习"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第三学期",
+    "XNXQ": "第三学期",
+    "XF": "3.0",
+    "KCM": "机器学习"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第四学期",
+    "XNXQ": "第四学期",
+    "XF": "3.0",
+    "KCM": "操作系统原理"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第三学期",
+    "XNXQ": "第三学期",
+    "XF": "4.0",
+    "KCM": "数字电路与计算机组成"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第五学期",
+    "XNXQ": "第五学期",
+    "XF": "3.0",
+    "KCM": "机器视觉"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第四学期",
+    "XNXQ": "第四学期",
+    "XF": "1.0",
+    "KCM": "体育（4）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第三学期",
+    "XNXQ": "第三学期",
+    "XF": "1.0",
+    "KCM": "体育（3）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期",
+    "XNXQ": "第二学期",
+    "XF": "1.0",
+    "KCM": "体育（2）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第一学期",
+    "XNXQ": "第一学期",
+    "XF": "1.0",
+    "KCM": "体育（1）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第一学期",
+    "XNXQ": "第一学期",
+    "XF": "3.0",
+    "KCM": "习近平新时代中国特色社会主义思想概论"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第四学期",
+    "XNXQ": "第四学期",
+    "XF": "2.5",
+    "KCM": "毛泽东思想和中国特色社会主义理论体系概论"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期",
+    "XNXQ": "第二学期",
+    "XF": "2.5",
+    "KCM": "中国近现代史纲要"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第一学期",
+    "XNXQ": "第一学期",
+    "XF": "2.5",
+    "KCM": "思想道德与法治"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第三学期",
+    "XNXQ": "第三学期",
+    "XF": "2.5",
+    "KCM": "马克思主义基本原理"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第一学期, 第二学期",
+    "XNXQ": "第一学期, 第二学期",
+    "XF": "2.0",
+    "KCM": "中华民族共同体概论"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期, 第三学期, 第四学期, 第五学期, 第六学期",
+    "XNXQ": "第二学期, 第三学期, 第四学期, 第五学期, 第六学期",
+    "XF": "1.0",
+    "KCM": "新中国史"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期, 第三学期, 第四学期, 第五学期, 第六学期",
+    "XNXQ": "第二学期, 第三学期, 第四学期, 第五学期, 第六学期",
+    "XF": "1.0",
+    "KCM": "党史"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期, 第三学期, 第四学期, 第五学期, 第六学期",
+    "XNXQ": "第二学期, 第三学期, 第四学期, 第五学期, 第六学期",
+    "XF": "1.0",
+    "KCM": "社会主义发展史"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期",
+    "XNXQ": "第二学期",
+    "XF": "0.25",
+    "KCM": "形势与政策（2）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第四学期",
+    "XNXQ": "第四学期",
+    "XF": "0.25",
+    "KCM": "形势与政策（4）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期, 第三学期, 第四学期, 第五学期, 第六学期",
+    "XNXQ": "第二学期, 第三学期, 第四学期, 第五学期, 第六学期",
+    "XF": "1.0",
+    "KCM": "改革开放史"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第一学期",
+    "XNXQ": "第一学期",
+    "XF": "0.25",
+    "KCM": "形势与政策（1）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第三学期",
+    "XNXQ": "第三学期",
+    "XF": "0.25",
+    "KCM": "形势与政策（3）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第五学期",
+    "XNXQ": "第五学期",
+    "XF": "0.25",
+    "KCM": "形势与政策（5）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第七学期",
+    "XNXQ": "第七学期",
+    "XF": "0.25",
+    "KCM": "形势与政策（7）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第八学期",
+    "XNXQ": "第八学期",
+    "XF": "0.25",
+    "KCM": "形势与政策（8）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第六学期",
+    "XNXQ": "第六学期",
+    "XF": "0.25",
+    "KCM": "形势与政策（6）"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期, 第三学期",
+    "XNXQ": "第二学期, 第三学期",
+    "XF": "2.0",
+    "KCM": "新时代实践教育"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第三学期, 第四学期",
+    "XNXQ": "第三学期, 第四学期",
+    "XF": "1.0",
+    "KCM": "国家安全教育"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第一学期",
+    "XNXQ": "第一学期",
+    "XF": "2.0",
+    "KCM": "军事理论"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第一学期",
+    "XNXQ": "第一学期",
+    "XF": "2.0",
+    "KCM": "军事技能训练"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第二学期, 第三学期",
+    "XNXQ": "第二学期, 第三学期",
+    "XF": "1.0",
+    "KCM": "大学生心理健康教育实践"
+  },
+  {
+    "KCXZDM_DISPLAY": "必修",
+    "XNXQ_DISPLAY": "第一学期",
+    "XNXQ": "第一学期",
+    "XF": "1.0",
+    "KCM": "大学生心理健康教育理论"
+  }
+]
